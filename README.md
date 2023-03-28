@@ -1,2 +1,2 @@
-# Alarme de cozinha
- Repositório do alarme em Html. CSS3 e JS
+# Alarme Cozinha
+ Repositório do alarme desenvolvido por mim em HTML5, CSS3 e Javascript.
